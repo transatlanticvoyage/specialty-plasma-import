@@ -4,6 +4,7 @@
  * Description: Debug version with extensive logging for troubleshooting pylon creation
  * Version: 1.0.1-debug
  * Author: Plasma Team
+ * Last Modified: March 4, 2026 - Testing VS Code source control integration
  */
 
 // Prevent direct access
