@@ -1,0 +1,5 @@
+.DS_Store
+**/.DS_Store
+*.log
+debug.log
+specialty-plasma-debug.log
